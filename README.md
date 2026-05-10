@@ -3,7 +3,7 @@
 ## Executive Summary
 Revenue grew **+2.35% MoM**, but profitability declined with **Profit ↓0.58%** and **Margin ↓1.76 pts**.  
 The main driver was a **+54.43% increase in discount spending**, which boosted volume but reduced efficiency.  
-Analysis showed that not all discount tiers perform equally—some drive high AOV but weaken margins.  
+Analysis showed that not all discount tiers perform equally; some drive high AOV but weaken margins.  
 The key opportunity is optimizing discount strategy to balance growth and profitability.
 
 ---
@@ -15,7 +15,6 @@ Identify key drivers (volume, pricing, discounting) and pinpoint where performan
 ---
 
 ## Approach
-- Built a **star schema dataset** using Python (synthetic data generation)  
 - Cleaned and transformed data using **SQL (CTEs, joins, validation checks)**  
 - Designed KPIs: Revenue, Net Sales, Profit, Margin, AOV, Orders  
 - Implemented **time intelligence (MoM, MTD, QTD, YTD)** in Power BI  
