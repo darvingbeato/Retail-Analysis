@@ -71,7 +71,8 @@ Identify key drivers (volume, pricing, discounting) and pinpoint where performan
 ---
 
 ## Dashboard / Output
-![Dashboard](image_link_here)
+<img width="1252" height="894" alt="image" src="https://github.com/user-attachments/assets/18610b7c-d2ca-48b4-8c21-92b5097089d2" />
+
 
 ---
 
