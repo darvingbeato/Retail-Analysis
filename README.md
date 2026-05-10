@@ -41,9 +41,8 @@ Identify key drivers (volume, pricing, discounting) and pinpoint where performan
 - Discount performance varies by tier:
   - **11% discount tier** → High AOV but lower efficiency (**37.63% margin**)
   - **15% discount tier** → Highest margin (**49.10%**)
-  - <img width="335" height="336" alt="image" src="https://github.com/user-attachments/assets/a6b0a1e7-f49c-49f2-96c0-7f845af72c84" />
-
   - Shows **not all discounts drive profitable growth**
+  <img width="335" height="336" alt="image" src="https://github.com/user-attachments/assets/a6b0a1e7-f49c-49f2-96c0-7f845af72c84" />
 
 - Basket behavior:
   - **404 / 1,084 orders (4+ items)** generated highest AOV (**$1,456.87**)
