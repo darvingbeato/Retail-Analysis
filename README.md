@@ -47,6 +47,8 @@ Identify key drivers (volume, pricing, discounting) and pinpoint where performan
 - Basket behavior:
   - **404 / 1,084 orders (4+ items)** generated highest AOV (**$1,456.87**)
   - Larger baskets contribute significantly to revenue
+  <img width="598" height="311" alt="image" src="https://github.com/user-attachments/assets/1fb10086-61a7-4aad-94b2-19dcd9acfd9d" />
+
 
 ---
 
